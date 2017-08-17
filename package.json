@@ -1,0 +1,14 @@
+{
+  "name": "webpack-chunk-hash-bug-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jakwuh/webpack-chunk-hash-bug-demo.git",
+  "author": "jakwuh@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "clean-dir": "^1.0.3",
+    "lodash": "^4.17.4",
+    "webpack": "^3.5.5",
+    "webpack-chunk-hash": "^0.4.0"
+  }
+}
